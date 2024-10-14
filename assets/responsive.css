@@ -1,10 +1,10 @@
 @media (max-width: 768px) {
     .logo-button {
-        width: 200px;
-        height: 200px;
+        width: 320px;
+        height: 250px;
     }
 
-    .container { padding-top: 0;}
+    .container { padding: 5% 0 0 2%;}
 
     .grupo-jasfalto {
 
@@ -19,6 +19,7 @@
         background: linear-gradient(90deg, #000000, #f3e306);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
+        padding: 40px 20px;
     }
      h1 { display: block;}
 
@@ -32,7 +33,7 @@
     }
 
     .logo-button {
-        width: 150px;
+        width: 320px;
         height: 150px;
     }
 } 
